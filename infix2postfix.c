@@ -1,7 +1,4 @@
-﻿/* The author of this software is Kuan Jen Lin, FJU-EE.  Copyright (c) 2018 by
- * Kuan Jen Lin. The program was designed for "Data structure" course.
- */
- /*************** Notes  ******************************************/
+/*************** Notes  ******************************************/
  /* Stack contains character, unlike texbook program, which contains precedence item */
  /* token is a character, not a precedence item */
  /* use getPrecedence() to get token's precedence */
